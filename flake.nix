@@ -93,12 +93,12 @@
               vms = {
                 small = {
                   count = 1;
-                  cpu = 4;
+                  cpu = 3;
                   memory = 8;
                 };
                 medium = {
                   count = 1;
-                  cpu = 6; # we can overcommit on CPU
+                  cpu = 3;
                   memory = 16;
                 };
               };
