@@ -7,11 +7,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1734716425,
-        "narHash": "sha256-CoOazhQsgPipl0qCCxwVBBtWKMOSiha0NhLCMExopTo=",
+        "lastModified": 1734788302,
+        "narHash": "sha256-AChTOe6k8ffIVOkydLOhpSpwGXhN3i5MwLEng0KtYG0=",
         "ref": "refs/heads/master",
-        "rev": "2ea46dd28b502990454ab1f662b2bebab193ba1f",
-        "revCount": 8,
+        "rev": "57c882fd007ada7bd6358632d8a4e0a2588ad4a8",
+        "revCount": 9,
         "type": "git",
         "url": "ssh://git@github.com/0xB10C/bitcoin-core-cirrus-runner.git"
       },
