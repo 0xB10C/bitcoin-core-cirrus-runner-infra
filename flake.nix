@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
     bitcoin-core-cirrus-runner = {
-      url = "git+ssh://git@github.com/0xB10C/bitcoin-core-cirrus-runner.git";
+      url = "github:0xB10C/bitcoin-core-cirrus-runner";
       inputs.nixpkgs.follows = "nixpkgs";
     };
     disko = {
