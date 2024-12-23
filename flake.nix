@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
     bitcoin-core-cirrus-runner = {
-      url = "github:0xB10C/bitcoin-core-cirrus-runner";
+      url = "github:0xB10C/bitcoin-core-cirrus-runner?ref=2024-12-38c3-ctf";
       inputs.nixpkgs.follows = "nixpkgs";
     };
     disko = {
@@ -92,14 +92,9 @@
               name = "test";
               vms = {
                 small = {
-                  count = 1;
-                  cpu = 3;
-                  memory = 8;
-                };
-                medium = {
-                  count = 1;
-                  cpu = 3;
-                  memory = 16;
+                  count = 16;
+                  cpu = 1;
+                  memory = 3;
                 };
               };
             };
