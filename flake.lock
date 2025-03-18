@@ -7,11 +7,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1738567683,
-        "narHash": "sha256-Wywdc55wnuz99iZBgyL+YWivzNER6GNp3do2s4RM4TM=",
+        "lastModified": 1742313975,
+        "narHash": "sha256-E7c7WWg5nQtPoQ4cIJDEXwxYUGDvw2zUapv/vQHYRfU=",
         "owner": "0xB10C",
         "repo": "bitcoin-core-cirrus-runner",
-        "rev": "a8d57c5f40a1fc1aadc2a9665829a85da42e4912",
+        "rev": "f0ccd79a1cbb4e92ccf5370c03aa36f60df44cbc",
         "type": "github"
       },
       "original": {
